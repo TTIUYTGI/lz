@@ -1,1 +1,2 @@
 static/videos/作品集.mp4 filter=lfs diff=lfs merge=lfs -text
+public/videos/作品集.mp4 filter=lfs diff=lfs merge=lfs -text
